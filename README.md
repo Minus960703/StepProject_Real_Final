@@ -6,55 +6,41 @@
 # 사용 방법
 
 ## 1. 홈
-> 사용자가 관심있는 부위를 드래그, 슬라이드 하여 고를 수 있고, 고를 시 해당 관련 영상 게시판으로 이동합니다.
+> 메인화면에서 축제 랭킹 TOP 10, 분기별 축제 목록, 월별 축제 목록 을 볼 수 있습니다.
 <img src="https://images.velog.io/images/cjw960703/post/4245168f-b558-411b-84bc-e1a4e44f937f/stephome.png">
 <img src="https://images.velog.io/images/cjw960703/post/85e154ac-35f6-4ea1-94c9-18ffcf55c706/stephome2.png">
 <img src="https://images.velog.io/images/cjw960703/post/eea142ae-6475-4f22-8101-22122d558b72/stephome3.png">
 
-## 2. 운동게시판
-> 운동게시판 탭 클릭시 운동영상 관련 게시판으로 이동합니다.
-<img src="https://images.velog.io/images/cjw960703/post/065753b1-b3f6-4c62-b4c3-389b793431b8/%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%91%E1%85%A1%E1%86%AB.png">
-> 운동게시판 글 등록은 관리자만 가능합니다.
-<img src="https://images.velog.io/images/cjw960703/post/8358c793-55b0-4d6c-b5a5-44f5690796f8/%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%83%E1%85%B3%E1%86%BC%E1%84%85%E1%85%A9%E1%86%A8(%20%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%B5%E1%84%8C%E1%85%A1).png">
+## 2. 축제게시판
+> 축제게시판에서 지역별, 행사종류 별 행사를 볼 수 있습니다.
+<img src="https://images.velog.io/images/cjw960703/post/39d2388b-1bfa-4bb5-827a-94db2403b441/festival.png">
+<img src="https://images.velog.io/images/cjw960703/post/e65ca631-e712-452d-8c6e-2eebbecb22ee/festival2.png">
 
-## 3. 메뉴
-> 운동게시판 탭에서, 메뉴 클릭시 메뉴창이 보입니다.
-<img src="https://images.velog.io/images/cjw960703/post/8e69e00b-6d24-4ec3-9aaf-d0b24b7f853c/%E1%84%92%E1%85%A6%E1%86%AF%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%84%85%E1%85%B5%E1%84%86%E1%85%A6%E1%84%82%E1%85%B2.png">
+> 축제게시판 축제 클릭 시, 해당 축제 상세 페이지로 이동하게 됩니다.
+<img src="https://images.velog.io/images/cjw960703/post/d5879090-e1c3-4e91-9689-a7006d36de9b/festivaldetail.png">
 
-## 4. 운동게시판 상세글
-> 운동게시판에서 글 클릭 시, 해당 글 상세 페이지로 이동하게 됩니다.
-<img src="https://images.velog.io/images/cjw960703/post/b58aeb5e-c938-4818-92fd-5955ba39242a/%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A6%E1%84%80%E1%85%B3%E1%86%AF.png">
+> 해당 축제에 대한 한줄평을 작성할 수 있습니다.
+<img src="https://images.velog.io/images/cjw960703/post/4b910228-ab78-492b-80ab-ce1ef8087285/festivalreview.png">
 
-## 5. 자유게시판
-> 자유게시판 탭 클릭시, 회원들이 올린 글 리스트를 받아옵니다.
-<img src="https://images.velog.io/images/cjw960703/post/8ed139d8-12c6-49ae-8fc7-00e718630b48/%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B2%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%91%E1%85%A1%E1%86%AB.png">
+> 해당 축제에 대한 리뷰를 등록 할 수 있고, 리뷰를 검색 할 수 있습니다.
+<img src="https://images.velog.io/images/cjw960703/post/17c3ad16-59ab-4cb9-86e6-9335d838968b/reviewsearch.png">
 
-## 6. 자유게시판 상세글
-> 자유게시판에서 글 클릭 시, 해당 글 상세 페이지로 이동하게 됩니다.
-<img src="https://images.velog.io/images/cjw960703/post/2986a614-448f-4e08-9bdf-584b2a400353/%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B2%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A6%E1%84%80%E1%85%B3%E1%86%AF.png">
+## 3. 홍보문의
+> 등록되지 않은 축제들을, 관리자에게 등록 신청 할 수 있습니다.
+<img src="https://images.velog.io/images/cjw960703/post/1ae547a5-0c47-4261-9342-6c574698cfcf/qa.png">
+<img src="https://images.velog.io/images/cjw960703/post/363fb4c0-70b3-414a-9b76-24a434d9efa5/qa2.png">
+<img src="https://images.velog.io/images/cjw960703/post/299f0dda-e554-4e2b-ab2f-0cc282cd80f0/qa3.png">
+<img src="https://images.velog.io/images/cjw960703/post/4537d53b-8e8b-4b5d-a61c-f778eff0f64e/qa4.png">
 
-## 7. 자유게시판 상세글- 댓글
-> 자유게시판에서 글 클릭 시, 해당 글 상세 페이지로 이동하고, 해당 글의 댓글을 불러옵니다.
-<img src="https://images.velog.io/images/cjw960703/post/9de823cd-f256-47a5-831f-adef11251c59/%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B2%E1%84%83%E1%85%A2%E1%86%BA%E1%84%80%E1%85%B3%E1%86%AF.png">
-<img src="https://images.velog.io/images/cjw960703/post/9819b367-3497-4af4-8fc2-9220d95d479d/%E1%84%83%E1%85%A2%E1%86%BA%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%83%E1%85%B3%E1%86%BC%E1%84%85%E1%85%A9%E1%86%A8.png">
+> 신청 된 축제 들을 관리자 페이지에서 수락, 거절 할 수 있습니다.
+<img src="https://images.velog.io/images/cjw960703/post/c93aeff8-e6c0-4f80-b1df-18d72ae99912/admin.png">
 
-## 8. 자유게시판 글 작성 및 수정
-> 자유게시판에서 글 작성 및 수정 페이지
-<img src="https://images.velog.io/images/cjw960703/post/d0f0bae8-a844-4159-b86b-18d8b4e879c5/%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B2%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%91%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC.jpeg">
-
-## 9. 내가 쓴 글
-> 내가 쓴 글, 댓글 을 확인 할 수 있습니다. 해당 글 클릭 시, 해당 글 상세 화면으로 이동하게 됩니다.
-<img src="https://images.velog.io/images/cjw960703/post/6053b892-6d9c-49e3-a3b7-e5e12b8b41d6/%E1%84%82%E1%85%A2%E1%84%80%E1%85%A1%20%E1%84%8A%E1%85%B3%E1%86%AB%20%E1%84%80%E1%85%B3%E1%86%AF.png">
-
-## 10. 쪽지
-> 사용자가 받은 쪽지, 보낸 쪽지 목록을 확인 할 수 있습니다.
-<img src="https://images.velog.io/images/cjw960703/post/4c95cc60-6a04-4704-add1-a54c3f50e7d3/%E1%84%8D%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%B5.png">
 
 # Project Structure
-> MVC 구조로 개발했으며, 저는 MVC 구조 설계, DB 설계, JAVA 소스 구현을 담당했습니다.
+> MVC 구조로 개발했으며, 팀장직을 맡았으며, MVC 구조 설계, DB 설계, JAVA 소스 구현을 담당했습니다.
 
-> 사용한 기술스택은 다음과 같습니다. • Spring • MySQL • JavaScript, JQuery • Tomcat 8.5
+> 사용한 기술스택은 다음과 같습니다. • Spring • Oracle • JavaScript, JQuery • Tomcat 8.5
 
-> 개발인원 : 2, 개발기간 : 2020-11-20 ~ 2020-12-15
+> 개발인원 : 4, 개발기간 : 2020-04-19 ~ 2020-11-17
 
-> JavaScript 코드와, Java 단, 프로젝트 환경설정에 많은 기여를 했습니다. 첫 스프링 프로젝트를 종료후 , 시작한 프로젝트 입니다. MVC 구조에 대해 보다 깊게 이해 할 수 있었고, 본격적으로 웹개발에 흥미를 느끼게 해준 프로젝트 입니다. 설계가 너무 부족하다고 느낀 프로젝트입니다. 프로젝트를 만들면서 좀더 이렇게 하면 어땠을까, 하고 고민을 많이하게 되어현재의 절 있게 만들어준 프로젝트 입니다.
+> JavaScript 코드와, Java 단, 프로젝트 환경설정에 많은 기여를 했습니다. 처음으로 배운 언어로 처음 만드는 프로젝트 인 만큼, 환경설정을 하는 기간이 오래걸렸고, 서버를 어떻게 운영 할지 까지 생각해 봤습니다. MVC 구조에 기초를 이해 할 수 있었고, 협업 간 의사소통이 중요하다는 걸 느낀 프로젝트였습니다. 첫 프로젝트 인 만큼 설계의 미흡한 부분, 원하는 데이터를 원하는 형태로 쓰지 못하는점 등 아쉬운 점이 너무 많았습니다. 프로젝트를 만들면서 좀더 이렇게 하면 어땠을까 하고 고민하고, 팀원과의 소통이 중요하며 팀장으로써의 역할이 부족했다고 느꼈습니다. 팀원과 의사소통이 원활하지 못했던 점이 제일 아쉬웠던 프로젝트였습니다. 코드의 통일성도 하지 못한 것도 너무 아쉬웠던 프로젝트 입니다.
